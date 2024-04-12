@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Olá! eu sou o Lucas Jorge, atualmente estou atuando como desenvolvendor fullstack .net(Api Rest) e Angular como framework frontend.
+## Olá! eu sou o Lucas Jorge, atualmente estou atuando como desenvolvendor fullstack 
  <div>
   <a href="https://github.com/lucasgjorge">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgjorge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
